@@ -30,6 +30,14 @@ SCP-087-B.GD.x86_64
 ## References
 - **SCP Foundation**: [SCP-087-B](http://www.scpwiki.com/)
 - **Creepypasta**: [SCP-087-B Story](https://creepypasta.fandom.com/)
+- <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/8be93b13-e407-4a22-a0cd-a97fd674672a" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fa1ffe1b-3774-4b06-8a8d-fb0d0994cd47" />
+<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/84b21e7b-d74e-404d-8d45-39397d631796" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/68b7423f-473b-4d87-aa1a-f45f048411c9" />
+
+
+
+
 
 ---
 
