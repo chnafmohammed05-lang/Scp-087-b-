@@ -18,11 +18,14 @@ Simply run the executable file to start the game:
 
 ```
 SCP-087-B.GD.x86_64
+for windows:
+SCP-087-B.GD.rar
 ```
 
 ## System Requirements
 - a linux pc atleast ubuntu or debian required 
 - 64-bit or 32-bit processor
+- you can also play it on windows! i just aded it !
 
 ## Project Status
 🚧 **Prototype** - Early development version
