@@ -14,14 +14,14 @@ SCP-087-B is a horror game where you descend deeper and deeper into an infinite 
 
 ## How to Play
 
-Simply run the `.exe` file to start the game:
+Simply run the executable file to start the game:
 
 ```
-SCP-087-B.exe
+SCP-087-B.GD.x86_64
 ```
 
 ## System Requirements
-- Windows 7 or later
+- a linux pc atleast ubuntu or debian required 
 - 64-bit or 32-bit processor
 
 ## Project Status
@@ -34,3 +34,4 @@ SCP-087-B.exe
 ---
 
 *This is a fan-made game project for entertainment purposes.*
+you can find the executable in the releases
